@@ -1,0 +1,156 @@
+{
+  "student" : [
+    {
+      "name": "Hirdesh",
+      "class": "5th",
+      "dob": "01/01/2015",
+      "fathers_name": "Mr.Shyam Kumar",
+      "address": "Rajwada, Indore, Madhya Pradesh 452002",
+      "phone_number": "1234567890",
+      "annual_income": "24,000"
+    },
+    {
+      "name": "Seeta",
+      "class": "4th",
+      "dob": "05/01/2016",
+      "fathers_name": "Mr.Ramlaal",
+      "address": "Chhatribagh, Indore, Madhya Pradesh 452001",
+      "phone_number": "1234567890",
+      "annual_income": "21,000"
+    },
+    {
+      "name": "Aman",
+      "class": "6th",
+      "dob": "01/01/2014",
+      "fathers_name": "Mr.Surendra Chourasiya ",
+      "address": "Jawahar Marg, Indore, Madhya Pradesh 452003",
+      "phone_number": "1234567890",
+      "annual_income": "29,000"
+    },
+    {
+      "name": "Surbhi",
+      "class": "2nd",
+      "dob": "01/01/2018",
+      "fathers_name": "Mr.Gopi Das",
+      "address": "60ft Road, Indore, Madhya Pradesh 452004",
+      "phone_number": "1234567890",
+      "annual_income": "26,500"
+    },
+    {
+      "name": "Nazia",
+      "class": "1st",
+      "dob": "01/01/2019",
+      "fathers_name": "Mr.Mohammad Hussain",
+      "address": "Chhatribagh, Indore, Madhya Pradesh 452001",
+      "phone_number": "1234567890",
+      "annual_income": "25,000"
+    },
+    {
+      "name": "Sarthak",
+      "class": "3rd",
+      "dob": "01/01/2017",
+      "fathers_name": "Mr.Nathu Deshmukh",
+      "address": "MG Road, Indore, Madhya Pradesh 452006",
+      "phone_number": "1234567890",
+      "annual_income": "19,000"
+    },
+    {
+      "name": "Jay",
+      "class": "5th",
+      "dob": "01/01/2015",
+      "fathers_name": "Mr.Mangal Gorai",
+      "address": "Refugee Colony, Indore, Madhya Pradesh 452010",
+      "phone_number": "1234567890",
+      "annual_income": "23,000"
+    },
+    {
+      "name": "Abhishek",
+      "class": "KG-1",
+      "dob": "01/01/2020",
+      "fathers_name": "Mr.Yogesh Prasad",
+      "address": "Gandhi Nagar, Indore, Madhya Pradesh 452009",
+      "phone_number": "1234567890",
+      "annual_income": "15,000"
+    },
+    {
+      "name": "Akash",
+      "class": "8th",
+      "dob": "01/01/2012",
+      "fathers_name": "Mr.Abhinav Mishra",
+      "address": "Pithampur Rd, Indore, Madhya Pradesh 453331",
+      "phone_number": "1234567890",
+      "annual_income": "29,000"
+    }
+  ],
+  "school" : [
+    {
+      "name": "Atmashodhan Sadhana Sansthan",
+      "address": "Rajwada, Indore, Madhya Pradesh 452002",
+      "phone_number": "1234567890",
+      "classtill": "8th"
+    },
+    {
+      "name": "Aas",
+      "address": "MIG Road, Indore, Madhya Pradesh 452002",
+      "phone_number": "1234567890",
+      "classtill": "10th"
+    },
+    {
+      "name": "Shree Swaminarayan Mukhya Mandir",
+      "address": "Pithampur, Indore, Madhya Pradesh 452002",
+      "phone_number": "1234567890",
+      "classtill": "4th"
+    },
+    {
+      "name": "Swami Vivekanand Centre",
+      "address": "A B Road, Indore, Madhya Pradesh 452002",
+      "phone_number": "1234567890",
+      "classtill": "8th"
+    },
+    {
+      "name": "Edubird Organization NGO",
+      "address": "Rajwada, Indore, Madhya Pradesh 452002",
+      "phone_number": "1234567890",
+      "classtill": "8th"
+    },
+    {
+      "name": "Sewa Sarthak Kalyan Samiti",
+      "address": "Nanda Nagar, Indore, Madhya Pradesh 452008",
+      "phone_number": "1234567890",
+      "classtill": "10th"
+    }       
+  ],
+  "donators" : [
+    {
+      "name": "Mr. Yash Singh",
+      "address": "Rajwada, Indore, Madhya Pradesh 452002",
+      "phone_number": "1234567890",
+      "profession": "Buisnessman",
+      "amountdonated": "50,000"
+    },
+    {
+      "name": "Mrs. Nandini Shah",
+      "address": "Rajwada, Indore, Madhya Pradesh 452002",
+      "phone_number": "1234567890",
+      "profession": "Developer",
+      "amountdonated": "60,000"
+    },
+    {
+      "name": "Mr. Anuj Kapadiya",
+      "address": "Rajwada, Indore, Madhya Pradesh 452002",
+      "phone_number": "1234567890",
+      "profession": "Buisnessman",
+      "amountdonated": "80,000"
+    },
+    {
+      "name": "Mr.Dhruv Chourasiya",
+      "address": "Rajwada, Indore, Madhya Pradesh 452002",
+      "phone_number": "1234567890",
+      "profession": "Civil Engineer",
+      "amountdonated": "15,000"
+    }]
+}
+
+
+
+
